@@ -3,7 +3,7 @@
 De Morgan (1838), An Essay on Probabilities, Ch. 3 "On Inverse Probabilities"
 
 ### What _was_ not clear about this term in the past?
-The inventors of the term seemed to not notice the subtle difference between the probability of a real event and the "probability of the probability of an event having some particular value". The tautologically equivalent word 'likelihood' doesn't clarify the situation, it makes it even more vague and obscure.
+The inventors of the term seemed to not notice the subtle difference between the probability of a real event and the "probability of the probability of an event having some particular value". The tautologically equivalent word 'likelihood' (instead of "probability of the probabitiy" of course) doesn't clarify the situation, it makes it even more vague and obscure.
 
 ### What do we do about this confusion?
 Eigther we continue using this word 'Bayesian' all the time until the end of days or... 
